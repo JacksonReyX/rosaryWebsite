@@ -58,9 +58,43 @@
     left: 14%;
   }
 
+  .fullSets{
+    color: white;
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    text-align: left;
+    position: relative;
+    left: 45%;
+    top: 100px;
+  }
+
   .epk{
     width: 90%;
     height: auto;
-    position: absolute;
+    position: relative;
     left: 5%
+  }
+
+  .amosVideo{
+    position: absolute;
+    top: 160%;
+    left: 2%;
+  }
+
+  .eveningMuseVideo{
+    position: absolute;
+    top: 160%;
+    left: 35%;
+  }
+
+  .milestoneVideo{
+    position: absolute;
+    top: 160%;
+    left: 67%;
+  }
+
+  .amosText{
+    position: relative;
+    top: 0%;
+    left: 0%;
   }
