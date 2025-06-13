@@ -98,6 +98,7 @@
     position: absolute;
     left: 0;
     top: 200px;
-    background-color: rgba(241, 241, 241, 0.587);
-    
+}
+.contactEmail h5 a{
+    color: rgba(193, 193, 193, 0.688);
 }
