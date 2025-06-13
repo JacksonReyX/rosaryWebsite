@@ -1,0 +1,103 @@
+
+.innerHeader {
+    width: 100%;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    position:sticky;
+}
+
+.logoContainer {
+    height: 100%;
+    display: table;
+    float: left;
+    position:sticky;
+}
+
+.logoContainer h1{
+    color: white;
+    height: 100%;
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    
+}
+
+.logoContainer h1 span{
+    font-weight: 800;
+}
+
+.navigation {
+    float:left;
+    height: 100%;
+    position:sticky;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    position:sticky;
+}
+
+
+.navigation a:hover{
+    background-color: rgb(157, 59, 145);
+    transition: background-color 0.3s ease;
+}
+
+.navigation a li{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: white;
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    font-size: 16px;
+    position:sticky;
+}
+
+.rosaryHeader{
+    width:100%;
+    height: 100px;
+    display: block;
+    margin: 0px auto;
+    position:sticky;
+  }
+
+.showsBody {
+    background-color: black;
+}
+
+.showsBody h1 {
+    color: white;
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    text-align: center;
+    position: absolute;
+    left: 40%;
+}
+
+.june27{
+    height:500px;
+    width: auto;
+    position: relative;
+    top: 100px;
+    left: -30%;
+}
+
+.bumBusters{
+    height:500px;
+    width: auto;
+    position: relative;
+    top: 100px;
+    left: -28%;
+}
+
+.july10{
+    height:500px;
+    width: auto;
+    position: absolute;
+    top: 26%;
+    left: 70%;
+}
