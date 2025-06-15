@@ -67,7 +67,7 @@
   }
 
   .musicPageBody {
-    background-image: url(/Users/jacksonreynolds/Documents/School/rosaryWebsite/pictures/fullBand444.jpg), url(/Users/jacksonreynolds/Documents/School/rosaryWebsite/pictures/jacky444.jpg);
+    background-image: url(../pictures/fullBand444.jpg), url(../pictures/jacky444.jpg);
     background-size: 1600px;
     position: relative;
     background-repeat: no-repeat, repeat;
