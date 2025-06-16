@@ -46,7 +46,7 @@
   }
 
   .pressBody{
-    background-color: black;
+    background-color: rgb(64, 64, 64);
   }
 
   .pressKit{
@@ -58,6 +58,28 @@
     left: 14%;
   }
 
+  .quoteBlock{
+    display:block;
+    width: 600px;
+    height: 150px;
+    background-color: rgba(120, 115, 115, 0.766);
+    margin: 20px;
+    position: relative;
+    left: 400px;
+  }
+
+  .quoteBlock p{
+    color: rgba(255, 255, 255, 0.67);
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    text-align: left;
+    font-size: 20px;
+    margin: 20px;
+    margin-top: 20px;
+    position: relative;
+    top: 15px;
+  }
+
   .fullSets{
     color: white;
     font-family: 'fantasy', papyrus;
@@ -65,7 +87,7 @@
     text-align: left;
     position: relative;
     left: 45%;
-    top: 575px;
+    top: 800px;
   }
 
   .epk{
@@ -84,7 +106,7 @@
   .eveningMuseVideo{
     position: absolute;
     top: 220%;
-    left: 35%;
+    left: 34.5%;
   }
 
   .milestoneVideo{
@@ -99,12 +121,97 @@
     left: 0%;
   }
 
+  .pressKitMusic{
+    position: absolute;
+    background-image: url(../pictures/pcb.JPG);
+    background-size: 90%;
+    width: 100%;
+    height: 600px;
+    top: 230%;
+    left: 0px;
+  }
+
+  .fading{
+    position: absolute;
+    top: 17%;
+    left: 3%;
+  }
+
+  .sc{
+    position: absolute;
+    top: 17%;
+    left: 27%;
+  }
+
+  .drugTalk{
+    position: absolute;
+    top: 17%;
+    left: 51%;
+  }
+
+  .improvClass{
+    position: absolute;
+    top: 17%;
+    left: 75%;
+  }
+
+  .spotifyKit{
+    position: relative;
+    top: 125px;
+    left: 0px;
+    
+  }
+  
   .videoBlock{
    width: 100%;
    height: 400px;
-   
    display: block;
-   
-   
-   
+   position: relative;
+   top: 500px;
   }
+
+  .pressKitPictures{
+    position: absolute;
+    top: 160%;
+    left: 2%;
+  }
+
+  .jackson{
+    width: 30%;
+    height: auto;
+    margin: 20px;
+  }
+
+  .jasyn{
+    width: 30%;
+    height: auto;
+    margin: 20px;
+  }
+
+  .jacob{
+    width: 30%;
+    height: auto;
+    margin: 20px;
+  }
+
+  .footer{
+    width: 100%;
+    height: 400px;
+    display: block;
+    background-image: url(../pictures/blkAndWhite.JPG);
+    position: relative;
+    top: 1400px;
+    background-size: 100%;
+    background-position: top 300px;
+  }
+
+  .footer p{
+    color: white;
+    font-family: 'fantasy', papyrus;
+    text-shadow: 4px 4px 8px rgb(0, 0, 0);
+    text-align: center;
+    position: relative;
+    top: 100px;
+    font-size: 40px;
+  }
+  
